@@ -12,7 +12,6 @@ Installation
 
 ### From Source Code
 
-
 * Clone the repo
 * In Chrome, choose Window > Extensions.  
 Enter the Develop Mode and add the bigjoke-chrome directory through 'Add Unpacked Extension'.
@@ -21,8 +20,8 @@ Enter the Develop Mode and add the bigjoke-chrome directory through 'Add Unpacke
 What this thing needs
 ---------------------
 
-* This is i18n-ed for  Chinese, German, and Japanese.
-  It would be fun with more translations.
+* bigjoke is localized for Chinese, German, and Japanese.
+  It would be more fun with more translations.
 * Send me interesting screenshots, or post somewhere like...
   http://www.flickr.com/groups/cloud-to-butt/
 
@@ -30,7 +29,7 @@ What this thing needs
 Credit
 ------
 
-This is a cloud-to-butt variant. This work is derived from awesome 
-Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/) chrome extension. 
-Hiroshi Yamamoto basically just red-bulled it. Sure, I 'm not regretting.
+bigjoke is a 'cloud-to-butt' variant which is derived from 
+Steven Frank's awesome [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/) chrome extension. 
+Hiroshi Yamamoto basically red-bulled it. Sure, I 'm not regretting.
 
