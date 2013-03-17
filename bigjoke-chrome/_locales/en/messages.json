@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "bigjoke : bigdata-to-butt"
+  },
+  "extDescription": {
+    "message": "Simple childish Chrome extension to replace 'big data' and 'the cloud' with 'my butt'."
+  },
+  "defaultFavWord": {
+    "message": "My cloud" 
+  },
+  "defaultLovWord": {
+    "message": "My butt" 
+  },
+  "lovWord0": {
+    "message": "Your butt" 
+  }
+}

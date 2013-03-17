@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "ビッグジョーク - ビッグデータと俺のケツ"
+  },
+  "extDescription": {
+    "message": "ハイパーテキスト上に現れた特定語(「ビッグデ―タ」「クラウド」)の自動付け替えをすることで、見えなかったものを見える化します。"
+  },
+  "defaultFavWord": {
+    "message": "クラウドコンピューティング" 
+  },
+  "defaultLovWord": {
+    "message": "俺のケツ" 
+  },
+  "lovWord0": {
+    "message": "俺のケツ" 
+  }
+}
